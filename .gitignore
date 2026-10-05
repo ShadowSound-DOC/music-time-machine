@@ -1,0 +1,14 @@
+.env
+venv/
+.venv/
+.idea/
+__MACOSX/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+code.txt
+data.json
+*.log
+.cache
+.cache-*
